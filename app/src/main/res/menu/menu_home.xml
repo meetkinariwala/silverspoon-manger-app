@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+
+
+    <item
+        android:id="@+id/menu_booking"
+        android:title="Table booking"
+        android:icon="@drawable/table_icon">
+
+    </item>
+    <item
+        android:id="@+id/menu_billing"
+        android:title="Order Detail"
+        android:icon="@drawable/bill">
+
+    </item>
+
+
+</menu>
